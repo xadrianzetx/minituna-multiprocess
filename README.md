@@ -20,7 +20,7 @@ Possible drawbacks:
 
 * IPC protocol to maintain (added code complexity)
 * Additional safety measures needed to ensure processes are disposed of correctly
-* ~~This won't scale to multi machine setups~~ (Maybe?)
+* ~~This won't scale to multi machine setups~~ ([It does scale quite nicely!](https://github.com/xadrianzetx/minituna-distributed))
 
 ## Implementation
 
